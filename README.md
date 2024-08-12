@@ -10,7 +10,11 @@ Estou sempre em busca de oportunidades para expandir meus conhecimentos e habili
 
 ![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=pyetrobsbs&show_icons=true&theme=onedark)
 
-### Tecnologias que eu uso
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pyetrobsbs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### Minhas Ferramentas de Criação
+
 <div style ="display: inline_block"></br>
 <img align = "center" alt = "html5" src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img align = "center" alt = "css" src = "https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
@@ -19,4 +23,4 @@ Estou sempre em busca de oportunidades para expandir meus conhecimentos e habili
 <img align = "center" alt = "html5" src = "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 <img align = "center" alt = "html5" src = "https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 </div></br>
-Em constante aprendizado, em constante desenvolvimento.
+🚀Em constante aprendizado, em constante desenvolvimento.
