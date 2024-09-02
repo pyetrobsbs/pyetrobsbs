@@ -22,5 +22,6 @@ Estou sempre em busca de oportunidades para expandir meus conhecimentos e habili
 <img align = "center" alt = "html5" src = "https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 <img align = "center" alt = "html5" src = "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 <img align = "center" alt = "html5" src = "https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img align = "center" alt = "html5" src = "https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 </div></br>
 🚀Em constante aprendizado, em constante desenvolvimento.
